@@ -1,5 +1,3 @@
-<!-- Banner Image (you can replace with your own image link) -->
-<img src="https://i.imgur.com/qf6Z9Ky.png" alt="Programming Banner" width="100%" />
 
 ## 👋 Hi there 
 
